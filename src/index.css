@@ -6,5 +6,9 @@
     color: #fff;
 }
 body {
-    background-color: #111;
+    background-color: #050c0f;
+}
+
+#tasklist::-webkit-scrollbar {
+    display: none;
 }
